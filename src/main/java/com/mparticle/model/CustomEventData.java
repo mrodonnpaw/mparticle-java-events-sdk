@@ -29,6 +29,8 @@ public class CustomEventData extends CommonEventData {
     USER_PREFERENCE("user_preference"),
     
     SOCIAL("social"),
+
+    MEDIA("media"),
     
     OTHER("other");
 
